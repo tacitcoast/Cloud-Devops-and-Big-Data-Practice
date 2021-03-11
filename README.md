@@ -38,4 +38,4 @@
 - Компенсацию спортивных занятий, занятия йогой в офисе. А еще вы сможете тренироваться и участвовать в соревнованиях (футбол, баскетбол, волейбол) в составе корпоративных команд;
 - Образовательные программы для детей сотрудников (курсы программирования в офисе).
 
-Feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
+Не стесняйтесь писат мне по любым вопросам: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
