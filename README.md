@@ -6,8 +6,8 @@
 - BigData (здесь мы кроме стандартных облаков работаем с Hadoop, NoSQL и миграциями) https://www.epam-group.ru/careers/data-and-analytics 
 - Cloud (здесь мы делаем масштабные миграции в облака, управляем AWS инфаструктурой, любим автоматизацию, контейнеры и Hashicorp tools) https://www.epam-group.ru/careers/epam-devops
 
-В Big Data мы обучаем работе с экосистемой Hadoop (+ MapReduce, Spark, Kafka, Storm, ELK, noSQL DBs (Cassandra, Hive, HBase).
-В Cloud обучаем работе с публичными облаками, готовим к сертификации AWS / GC (Google Cloud) / Azure, и оплачиваем ее.
+В Data DevOps мы работаем (и обучаем с нуля) работе с Data-related технологиями (встречаются как он-прем Hadoop и его аналоги в публичных облаках, так и SnowFlake; Databricks; Elasticsearch; Druid; имя им - легион).
+В Cloud обучаем работе с публичными облаками, готовим к сертификации AWS / GCP (Google Cloud) / Azure, и оплачиваем ее.
 
 ## Information
 - [The global Devops team and the technology stack used](DevOps_Team.pdf/)
